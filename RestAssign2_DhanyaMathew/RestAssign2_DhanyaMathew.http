@@ -1,0 +1,6 @@
+@RestAssign2_DhanyaMathew_HostAddress = http://localhost:5183
+
+GET {{RestAssign2_DhanyaMathew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
